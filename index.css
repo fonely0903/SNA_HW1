@@ -1,0 +1,55 @@
+
+header > h1{
+	text-align: center;
+}
+
+nav{
+	text-align: center;
+}
+nav > h4{
+	display: inline;
+	margin: 20px;
+}
+HR{
+	margin-top: 20px;
+}
+
+
+article{
+	margin: 10px 2px 2px 2px;
+	background-color: #FFFCEC;
+	border-radius: 5px;
+	height: auto;
+}
+
+aside{
+	padding: 20px 0; 
+	margin: 40px 2px 2px 2px;
+	background-color: #FFF4C1;
+	border-radius: 5px;
+	height: auto;
+}
+
+footer{
+	background-color: grey;
+	height: 100px;
+}
+
+iframe{
+	padding: auto;
+}
+
+.datetime{
+	color: #7B7B7B;
+	font-size: 0.75em;
+}
+
+#garfield{
+	float: right;
+	margin:5px;
+}
+
+.ad{
+	padding: auto;
+}
+
